@@ -30,8 +30,8 @@ The dataset consists of 2 parts:
 - Images (Categories, Image Name, Tags)
     - Downlaoded the images from the free sources on internet.
     - Divided them into proper categories.
-    - Suitable description of images by giving tags.
-Categories: A broad umbrella which defines a quote or image. The given categories are as follows:
+    - Suitable description of images by giving tags. <br>
+<b>Categories: </b> A broad umbrella which defines a quote or image. The given categories are as follows:
     - Motivation
     - Wisdom
     - Truth
@@ -52,8 +52,8 @@ Categories: A broad umbrella which defines a quote or image. The given categorie
     - Friendship
     - Life
     - Love
-    - Success
-Tags: Specific details and emotions from the image or quote which particularly expresses it. Some examples are: person, smile, sadness, climb, believe etc.
+    - Success <br>
+<b>Tags: </b> Specific details and emotions from the image or quote which particularly expresses it. Some examples are: person, smile, sadness, climb, believe etc.
 
 # Approach
 
