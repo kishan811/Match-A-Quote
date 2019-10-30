@@ -62,7 +62,7 @@ The dataset consists of 2 parts:
     - Matching the given tags of a quote along with tags of images and giving each match a score of 1. Storing it in score2.
     - Matching Score = score1 + score2
     - Conditional checking and making sure that the image belongs to the category matched.
-    - Matching Cases
+    - Matching Cases:-
         - Strict Matching Case: if score1 >= 5 and score2 > 0.
         - Loose Matching Case: if matchingScore > 0
     - Returing the matched image results.
